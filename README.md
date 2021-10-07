@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @tomatosandwiches
+- 👀 I’m write programs that make life easier.
